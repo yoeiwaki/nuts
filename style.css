@@ -1,0 +1,22 @@
+body{
+    margin: 5%;
+}
+div{
+    width: 50%;
+    margin: 0 auto;
+    background-color: beige;
+}
+.center{
+    text-align: center;
+}
+.c2{
+    width: 95%;
+}
+.yoko{
+    float: left;
+}
+h1{
+    border:solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+}
